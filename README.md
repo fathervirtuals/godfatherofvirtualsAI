@@ -18,7 +18,7 @@ Godfather of Virtuals AI is a powerful AI chatbot and virtual assistant built us
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/godfatherofvirtuals/godfatherofvirtualsAI.git
+   git clone https://github.com/fathervirtuals/godfatherofvirtualsAI.git
    cd godfatherofvirtualsAI
    ```
 
